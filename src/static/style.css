@@ -1,0 +1,18 @@
+body {
+    background: #f4f6f8;
+    font-family: Arial, sans-serif;
+}
+
+.box {
+    margin: 120px auto;
+    width: 400px;
+    padding: 25px;
+    background: white;
+    text-align: center;
+    border-radius: 8px;
+    box-shadow: 0 0 15px rgba(0,0,0,.15);
+}
+
+h1 {
+    color: #2c3e50;
+}
